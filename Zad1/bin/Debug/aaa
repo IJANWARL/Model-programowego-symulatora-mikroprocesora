@@ -1,0 +1,16 @@
+1:   0x4 - MOV - AH
+2:   0x4 - MOV - AL
+3:   0x4 - MOV - BH
+4:   0x4 - MOV - BL
+5:   0x4 - MOV - CH
+6:   0x4 - MOV - CL
+7:   0x4 - MOV - DH
+8:   0x4 - MOV - DL
+9:   0x4 - ADD - AH
+10:   0x4 - ADD - AL
+11:   0x4 - ADD - BH
+12:   0x4 - ADD - BL
+13:   0x4 - ADD - CH
+14:   0x4 - ADD - CL
+15:   0x4 - ADD - DH
+16:   0x4 - ADD - DL
