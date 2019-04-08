@@ -1,0 +1,7 @@
+1:   AH - MOV - AL   wykonana
+2:   AL - MOV - BH   wykonana
+3:   BH - MOV - BL   wykonana
+4:   BL - MOV - CH   wykonana
+5:   CH - MOV - CL
+6:   CL - MOV - DH
+7:   DH - MOV - DL

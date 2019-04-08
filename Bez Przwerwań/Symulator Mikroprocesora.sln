@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad1", "Zad1\Zad1.csproj", "{53036C8E-937C-4F51-A097-4EF363610974}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symulator Mikroprocesora", "Zad1\Symulator Mikroprocesora.csproj", "{53036C8E-937C-4F51-A097-4EF363610974}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,7 @@
+1:   AH - MOV - AL
+2:   AL - MOV - BH
+3:   BH - MOV - BL
+4:   BL - MOV - CH
+5:   CH - MOV - CL
+6:   CL - MOV - DH
+7:   DH - MOV - DL
